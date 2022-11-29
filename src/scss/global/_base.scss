@@ -1,0 +1,26 @@
+$primary-clr-500: hsl(193, 38%, 86%);
+$primary-clr-600: hsl(150, 100%, 66%);
+$neutral-clr-700: hsl(217, 19%, 38%);
+$neutral-clr-800: hsl(217, 19%, 24%);
+$neutral-clr-900: hsl(218, 23%, 16%);
+
+body {
+  font-family: "Manrope", sans-serif;
+  font-weight: 800;
+  background-color: $neutral-clr-900;
+}
+
+main {
+  min-height: 100vh;
+  flex-direction: column;
+  padding: 1.25em;
+}
+
+h1 {
+  position: absolute;
+  top: -9999px;
+}
+
+.flex {
+  display: flex;
+}
