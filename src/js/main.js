@@ -13,7 +13,10 @@ button.addEventListener("click", () => {
 async function getAdvice() {
   await fetch("https://api.adviceslip.com/advice", {
     method: "GET",
-    cache: "no-store",
+    cache: "no-cache",
+    headers: {
+      "Content-type": "text/plain",
+    },
   })
     .then((response) => {
       if (!response.ok) {
