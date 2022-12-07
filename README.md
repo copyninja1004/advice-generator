@@ -3,9 +3,11 @@
 ## Looking for advice? Check this out 🚀
 
 - ### [Live preview 🎨](https://rwxdan.github.io/advice-generator-app/)
-- ### Desktop product 💻
-  ![](./assets/screenshots/desktop_product.png)
-- ### Mobile product 📱
-  ![](./assets/screenshots/mobile_product.png)
+- ### Mobile view 📱
+  ![](./assets/screenshots/phone_view.png)
+- ### Tablet view 📱
+  ![](./assets/screenshots/tablet_view.png)
+- ### Desktop view 💻
+  ![](./assets/screenshots/desktop_view.png)
 
 #### Credits to [Advice Slip API](https://api.adviceslip.com/).
